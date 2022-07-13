@@ -34,7 +34,7 @@ An example of the gendiff utility working with recursive files (formatter 'plain
 [![asciicast](https://asciinema.org/a/QSBRL5RpLxsUmhtF6LStn6W0f.svg)](https://asciinema.org/a/QSBRL5RpLxsUmhtF6LStn6W0f)
 
 An example of the gendiff utility working with recursive files (formatter 'json')<br>
-[![asciicast](https://asciinema.org/a/1vMFJfXy5xvVfzIGqHXKeQ5wc)](https://asciinema.org/a/1vMFJfXy5xvVfzIGqHXKeQ5wc)
+[![asciicast](https://asciinema.org/a/1vMFJfXy5xvVfzIGqHXKeQ5wc.svg)](https://asciinema.org/a/1vMFJfXy5xvVfzIGqHXKeQ5wc)
 
 
 #### Reference to the educational repository
