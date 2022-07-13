@@ -15,7 +15,7 @@
     "src"
   ],
   "scripts": {
-    "test": "npx jest --watch"
+    "test": "npx jest"
   },
   "repository": {
     "type": "git",
