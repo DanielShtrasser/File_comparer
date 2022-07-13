@@ -1,6 +1,6 @@
 [![CI](https://github.com/DanielShtrasser/brain_games/actions/workflows/main.yml/badge.svg)](https://github.com/DanielShtrasser/brain_games/actions/workflows/main.yml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/d1557cc2d7475fa1f6bb/maintainability)](https://codeclimate.com/github/DanielShtrasser/brain_games/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/d1557cc2d7475fa1f6bb/test_coverage)](https://codeclimate.com/github/DanielShtrasser/brain_games/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/1fa488478d98d75fa719/maintainability)](https://codeclimate.com/github/DanielShtrasser/File_comparer/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/1fa488478d98d75fa719/test_coverage)](https://codeclimate.com/github/DanielShtrasser/File_comparer/test_coverage)
 
 ##
 В рамках этого учебного проекта я написал программу для сравнения файлов. На вход программа принимает два разных файла в форматах json, ini, yml и на выходе формирует дифф этих двух файлов. Дифф может быть представлен в трех видах - дерево, плоский формат и в формате json. Я поработал с git, npm, eslint, babel, makefile, lodash, [Code Climate](https://codeclimate.com/), [Travis](https://travis-ci.org/), тестировал свою программу с помощью jest.
